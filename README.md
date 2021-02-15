@@ -1,2 +1,3 @@
 # Hospital-Management-System
 The purpose of the project entitled as “HOSPITAL MANAGEMENT SYSTEM” was to computerize the Front Office Management of Hospital to develop software which is user friendly simple, fast, and cost – effective using HTML, JavaScript and CSS.
+hospital management system (HMS) is a computer or web based system that facilitates managing the functioning of the hospital or any medical set up1. This system or software will help in making the whole functioning paperless. It integrates all the information regarding patients, doctors, staff, hospital administrative details etc. into one software
